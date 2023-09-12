@@ -6,7 +6,9 @@ I am a highly motivated professional with a Master's degree in Mathematics and a
 Skills: Python/ Machine Learning/ Power BI/ Alteryx/ Talend/ MySQL/ ER Studio/ Databases/ Teaching 
 
 - 🔭 I’m currently working on co-op position 
-- 📫 How to reach me: patole.g@northeastern.edu 
+- 📫 How to reach me: patole.g@northeastern.edu
+
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gauripatole)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/gauri-patole/)
 
 
 <p align="left"> <a href="https://twitter.com/gaurijayde372" target="blank"><img src="https://img.shields.io/twitter/follow/gaurijayde372?logo=twitter&style=for-the-badge" alt="gaurijayde372" /></a> </p>
@@ -14,7 +16,7 @@ Skills: Python/ Machine Learning/ Power BI/ Alteryx/ Talend/ MySQL/ ER Studio/ D
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gaurijayde372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurijayde372" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/gauri-patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gauri-patole" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/gauri-patole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gauri-patole" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
