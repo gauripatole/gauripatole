@@ -9,12 +9,6 @@ Skills: Python/ Machine Learning/ Power BI/ Alteryx/ Talend/ MySQL/ ER Studio/ D
 - 📫 How to reach me: patole.g@northeastern.edu 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gauripatole)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/gauri-patole/)  
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://twitter.com/gaurijayde372" target="blank"><img src="https://img.shields.io/twitter/follow/gaurijayde372?logo=twitter&style=for-the-badge" alt="gaurijayde372" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
