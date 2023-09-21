@@ -8,7 +8,7 @@ I am a highly motivated professional with a Master's degree in Mathematics and a
 
 Skills: Python/ Machine Learning/ Power BI/ Alteryx/ Talend/ MySQL/ ER Studio/ Databases/ Teaching 
 
-- 🔭 I’m currently working on co-op position 
+- 🔭 I’m currently working for co-op position 
 - 📫 How to reach me: patole.g@northeastern.edu
 
 <h3 align="left">Connect with me:</h3>
