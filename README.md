@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/gauripatole/gauripatole/blob/main/github-header-image%20(2).png" />
+ <img src="https://github.com/gauripatole/gauripatole/blob/main/github-header-image%20(4).png" />
 </h1>
 
 Master's in Information Systems from Northeastern University
