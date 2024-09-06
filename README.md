@@ -2,7 +2,11 @@
  <img src="https://github.com/gauripatole/gauripatole/blob/main/Screenshot%202024-01-07%20202228.png" />
 </h1>
 
-Master's in Information Systems from Northeastern University and Master's in Mathematics from Mumbai University 
+<h3 align="Center">Master's in Information Systems from Northeastern University & Master's in Mathematics from Mumbai University</h3>
+
+
+
+
 
 
 
