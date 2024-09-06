@@ -2,13 +2,11 @@
  <img src="https://github.com/gauripatole/gauripatole/blob/main/Screenshot%202024-01-07%20202228.png" />
 </h1>
 
-Master's in Information Systems from Northeastern University
+Master's in Information Systems from Northeastern University and Master's in Mathematics from Mumbai University 
 
-Possessing a Master's degree in Mathematics and currently pursuing a Master's in Information Systems at Northeastern University, owning a high level of motivation and professionalism. Will bring a diverse skill set to the field of data analysis, with completed projects utilizing tools like Alteryx, Talend, Microsoft Azure, Power BI, and Tableau. With one year of practical experience as a Data Analyst at Sunny Enterprises, valuable insights have been extracted from complex datasets. Additionally, freelancing for IB Math Tutor has further enhanced my expertise. The unique offering includes technical proficiency, a solid mathematical foundation, and a commitment to leveraging data for organizational improvement.
-Skills: Python/ Machine Learning/ Power BI/ Alteryx/ Talend/ MySQL/ ER Studio/ Databases/ Teaching 
 
-- 🔭 I’m currently working for co-op position 
-- 📫 How to reach me: patole.g@northeastern.edu
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
