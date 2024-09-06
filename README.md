@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="Center">A recent graduate in Information Systems from Northeastern University </h3>
-<h3 align="Center">Master's in Information Systems from Northeastern University </h3>
+<h3 align="Center">Master's in Mathematics from Mumbai University </h3>
 
 
 
