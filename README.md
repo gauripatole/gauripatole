@@ -1,8 +1,6 @@
-<h1 align="center">
- <img src="https://github.com/gauripatole/gauripatole/blob/main/Screenshot%202024-01-07%20202228.png" />
-</h1>
 
-<h3 align="Center">A recent graduate in Information Systems from Northeastern University </h3>
+<h3 align="Center"> On assignment with Toyota Motor North America </h3>
+<h3 align="Center">A graduate in Information Systems from Northeastern University </h3>
 <h3 align="Center">Master's in Mathematics from Mumbai University </h3>
 
 
